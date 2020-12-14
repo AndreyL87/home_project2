@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+.why_do_cats_sleep_so_much {
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 320px;
+}
+
+.cats_sleep{
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 70px;
+}
+.how_long_do_cats_sleep {
+    float: right    
+}
+.why_do_cats_sleep {
+    float: right;
+    padding-left: 305px;
+   
+   
+}
+.do_cats_sleep {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    /* display: block; */
+}
